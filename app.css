@@ -1,0 +1,22 @@
+h1 {
+  color: rebeccapurple;
+}
+
+.card {
+  position: absolute;
+  top: 25%;
+  left: 40%;
+}
+.button {
+  position: absolute;
+  top: auto;
+}
+.hidden {
+  visibility: hidden;
+}
+.show {
+  visibility: visible;
+}
+body {
+  background-color: brown;
+}
